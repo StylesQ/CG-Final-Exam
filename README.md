@@ -1,6 +1,8 @@
 # CG Final Exam
 
 
+!!!!!!!!!!!!!NOTE!!!!!!!!!!!! : Build issue I went to build it and noticed most of the shaders are purple in the game build exe, I worked super hard on the scene only to realise this right at the end, please review the actual project version as that is how the game is supposed to actually look. If I had known these wouldn't work in a build ahead of time I would have been able to fix it but this surprised me, I put a lot of effort into building up the scene to look really good to please make sure to look at the actual unity project or the video I submitted in the git showing how the game looks. 
+
 
 The first step was setting up the scene and space, for this final I wanted to try something out there and enhance packman by putting him a world or location and trying to create a cool environment around that, I went with a futuristic city sorta vibe since I was tasked with using scrolling and hologram textures and thought these would really well with that atheistic.
 
